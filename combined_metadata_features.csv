@@ -1,0 +1,2 @@
+image_path,file_name,class,dataset,width,height,aspect_ratio,file_size_kb,mean_intensity,std_intensity,skewness,kurtosis,entropy,edge_density
+C:\Users\ariji\AppData\Local\Temp\tmpr1zjk4px\data-tifs-2016-maps-20250910T003622Z-1-001\data-tifs-2016-maps\preview.png,preview.png,data-tifs-2016-maps,data-tifs-2016-maps-20250910T003622Z-1-001,640,602,1.063,124.04,109.642,113.702,0.331,-1.707,2.346,0.051
