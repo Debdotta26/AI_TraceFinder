@@ -84,9 +84,11 @@ Example structure:
 1. *Main Prediction App*
    ![Main Prediction App]<img width="1749" height="1014" alt="Screenshot 2025-11-03 164710" src="https://github.com/user-attachments/assets/6c8eb1ed-ddb7-4bab-a624-3deec9337ef3" />
 
-3. *Feature Extraction Interface*
-   ![Feature Extraction Interface](./img/Feature_Extraction_App.png)
+3. *Baseline Interface*<img width="1512" height="861" alt="Screenshot 2025-09-19 181936" src="https://github.com/user-attachments/assets/eab54e5c-3ffd-4561-addf-b3ed3aed155b" /><img width="1659" height="880" alt="Screenshot 2025-09-19 181954" src="https://github.com/user-attachments/assets/f5220093-29c3-45bd-9843-73bcb11988d5" /><img width="1691" height="832" alt="Screenshot 2025-09-19 182058" src="https://github.com/user-attachments/assets/19712a98-fc18-4b4a-8c5d-5868b7c55bc6" />
 
+
+
+   
 4. *Model Evaluation Page*
    ![Model Evaluation]![WhatsApp Image 2025-11-03 at 17 32 54_33340dfe](https://github.com/user-attachments/assets/ca6ea421-e141-4073-b488-fb35dbb9e5c3)
 
@@ -201,6 +203,7 @@ ai-tracefinder/
 └─ README.md
 ```
 🙋‍♂️ Author
+
 Created by Debdotta Bhattacharya
 Contributions, feedback, and forks are warmly welcomed!
 
