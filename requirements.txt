@@ -1,8 +1,0 @@
-* streamlit – for building interactive web apps
-* pandas – for data manipulation and analysis
-* numpy – for numerical operations
-* os – for interacting with the operating system (file paths, directory listing)
-* cv2 (OpenCV) – for image processing
-* PIL (from Pillow) – for image loading and display
-* scipy.stats – for statistical functions like skewness, kurtosis, and entropy
-
