@@ -57,6 +57,24 @@ This project leverages a modern stack for machine learning, image processing, an
 - 🌐 *User-Friendly UI:* Deployed via Streamlit with an intuitive, modular interface.
 
 ---
+💡 Usage
+
+1. Launch the Streamlit interface.
+
+
+2. Navigate through the tabs:
+
+Feature Extraction: Upload or select dataset folder.
+
+Visualization: View dataset distribution and sample images.
+
+Model Training: Train Random Forest, SVM, or CNN models.
+
+Prediction: Upload a new image to identify its scanner.
+
+
+
+3. View accuracy metrics, download results, or visualize confusion matrices.
 
 ## 🖼 Demo / Screenshots
 
@@ -64,15 +82,15 @@ Upload your screenshots here once ready!
 Example structure:
 
 1. *Main Prediction App*
-   ![Main Prediction App](./img/Main_Prediction_App.png)
+   ![Main Prediction App](C:\Users\ariji\Pictures\Screenshots\Screenshot 2025-11-03 164710.png)
 
-2. *Feature Extraction Interface*
+3. *Feature Extraction Interface*
    ![Feature Extraction Interface](./img/Feature_Extraction_App.png)
 
-3. *Model Evaluation Page*
+4. *Model Evaluation Page*
    ![Model Evaluation](./img/Model_Evaluation_Page.png)
 
-4. *Data Visualization*
+5. *Data Visualization*
    ![Data Visualization](./img/Data_Visualization.png)
 
 ---
