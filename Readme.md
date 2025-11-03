@@ -82,16 +82,20 @@ Upload your screenshots here once ready!
 Example structure:
 
 1. *Main Prediction App*
-   ![Main Prediction App](C:\Users\ariji\Pictures\Screenshots\Screenshot 2025-11-03 164710.png)
+   ![Main Prediction App]<img width="1749" height="1014" alt="Screenshot 2025-11-03 164710" src="https://github.com/user-attachments/assets/6c8eb1ed-ddb7-4bab-a624-3deec9337ef3" />
 
 3. *Feature Extraction Interface*
    ![Feature Extraction Interface](./img/Feature_Extraction_App.png)
 
 4. *Model Evaluation Page*
-   ![Model Evaluation](./img/Model_Evaluation_Page.png)
+   ![Model Evaluation]![WhatsApp Image 2025-11-03 at 17 32 54_33340dfe](https://github.com/user-attachments/assets/ca6ea421-e141-4073-b488-fb35dbb9e5c3)
+
 
 5. *Data Visualization*
-   ![Data Visualization](./img/Data_Visualization.png)
+   ![Data Visualization]<img width="1919" height="1072" alt="Screenshot 2025-11-03 170622" src="https://github.com/user-attachments/assets/fd0bc96f-67d5-4e44-a262-1f105c8a3987" /><img width="1919" height="1079" alt="Screenshot 2025-11-03 170642" src="https://github.com/user-attachments/assets/f6660b0d-fb83-4cb0-87f8-db61d86bd941" /><img width="1919" height="1079" alt="Screenshot 2025-11-03 170703" src="https://github.com/user-attachments/assets/96d7d50d-e4df-46c8-a6c7-1d4f77bb1ffe" />
+
+
+
 
 ---
 
