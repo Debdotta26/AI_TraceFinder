@@ -2,7 +2,101 @@
 
 ##  Overview  
 AI TraceFinder is a forensic machine learning platform that identifies the **source scanner device** used to digitize a document or image. Each scanner (brand/model) introduces unique **noise, texture, and compression artifacts** that serve as a fingerprint. By analyzing these patterns, AI TraceFinder enables **fraud detection, authentication, and forensic validation** in scanned documents.  
+# 📊 AI TraceFinder: Forensic Scanner Identification
 
+Detecting document forgery by analyzing a scanner's unique digital fingerprint.
+
+---
+
+## 🎯 About the Project
+
+Scanned documents like legal agreements, official certificates, and financial records are easy to forge. It's often impossible to tell if a scanned document is legitimate or if it was created using an unauthorized, fraudulent device.
+
+*AI TraceFinder* solves this problem by identifying the *source scanner* used to create a digital image.
+
+Every scanner, due to its unique hardware, introduces microscopic and invisible *“fingerprints”* into an image. These include specific noise patterns, texture artifacts, and compression traces.  
+This project uses *machine learning and deep learning* to recognize these unique signatures, allowing you to:
+
+- Attribute a scanned document to a specific scanner model.  
+- Detect forgeries where unauthorized scanners were used.  
+- Verify the authenticity of scanned evidence in a forensic context.
+
+---
+
+## 🧠 Tech Stack
+
+This project leverages a modern stack for machine learning, image processing, and web app delivery.
+
+| Category | Technology | Purpose |
+|-----------|-------------|----------|
+| *Backend & ML* | Python | Core programming language |
+| | Scikit-learn | Random Forest & SVM (Baseline Models) |
+| | Pandas | Data manipulation and CSV handling |
+| | OpenCV | Image processing (color, noise, filters) |
+| | NumPy | Numerical operations |
+| | TensorFlow / Keras | CNN model for deep learning |
+| *Frontend & UI* | Streamlit | Interactive web application |
+| | Matplotlib & Seaborn | Data visualization (plots, confusion matrix) |
+| | Pillow (PIL) | Displaying and loading images |
+| *Tooling* | Git & GitHub | Version control |
+| | venv | Virtual environment management |
+
+---
+
+## ✨ Features
+
+- 🧩 *Feature Extraction Module:* Scan image directories, extract 10+ metadata features, and generate a feature CSV.  
+- 📊 *Data Visualization:* Display class distributions, sample images, and preview dataset.  
+- 💾 *Downloadable Results:* Export generated feature CSV files directly from the app.  
+- 🤖 *Machine Learning Pipeline:*  
+  - *Train:* Build and train Random Forest & SVM models.  
+  - *Evaluate:* View detailed classification reports and confusion matrices.  
+  - *Predict:* Upload any image to identify its source scanner.  
+- ⚙ *Dual Model Support:* Choose between Random Forest or SVM for prediction.  
+- 🧠 *Deep Learning Integration:* CNN model for end-to-end image-based classification.  
+- 🌐 *User-Friendly UI:* Deployed via Streamlit with an intuitive, modular interface.
+
+---
+
+## 🖼 Demo / Screenshots
+
+Upload your screenshots here once ready!  
+Example structure:
+
+1. *Main Prediction App*
+   ![Main Prediction App](./img/Main_Prediction_App.png)
+
+2. *Feature Extraction Interface*
+   ![Feature Extraction Interface](./img/Feature_Extraction_App.png)
+
+3. *Model Evaluation Page*
+   ![Model Evaluation](./img/Model_Evaluation_Page.png)
+
+4. *Data Visualization*
+   ![Data Visualization](./img/Data_Visualization.png)
+
+---
+
+## 📈 Accuracy & Performance
+
+| Metric | Value |
+|--------|--------|
+| *Test Accuracy (CNN)* | *82.21%* |
+| *Precision* | 0.83 |
+| *Recall* | 0.82 |
+| *F1-Score* | 0.82 |
+| *Test Samples* | 517 images |
+
+---
+
+## 🚀 Installation
+
+Follow these steps to set up the project locally.
+
+### 1️⃣ Clone the Repository
+```bash
+git clone https://github.com/debdotta/AI_TraceFinder.git
+cd AI_TraceFinder
 ---
 
 ##  Goals & Objectives  
