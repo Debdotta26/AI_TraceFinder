@@ -200,3 +200,7 @@ ai-tracefinder/
 ├─ reports/              
 └─ README.md
 ```
+🙋‍♂️ Author
+Created by Debdotta Bhattacharya
+Contributions, feedback, and forks are warmly welcomed!
+
